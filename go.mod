@@ -25,9 +25,7 @@ require (
 	github.com/gorilla/websocket v1.4.1 // indirect
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/influxdata/influxdb v1.7.9 // indirect
-	github.com/julienschmidt/httprouter v1.3.0 // indirect
 	github.com/karalabe/usb v0.0.0-20191104083709-911d15fe12a9 // indirect
-	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/mattn/go-colorable v0.1.4
 	github.com/mattn/go-isatty v0.0.10
 	github.com/mattn/go-runewidth v0.0.6 // indirect
@@ -35,13 +33,13 @@ require (
 	github.com/olekukonko/tablewriter v0.0.2 // indirect
 	github.com/opentracing/opentracing-go v1.1.0
 	github.com/pborman/uuid v1.2.0 // indirect
-	github.com/pkg/errors v0.8.1
-	github.com/prometheus/client_golang v1.2.1
-	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4
+	github.com/pkg/errors v0.9.1
+	github.com/prometheus/client_golang v1.11.1
+	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/tsdb v0.10.0 // indirect
 	github.com/rjeczalik/notify v0.9.2 // indirect
 	github.com/rs/cors v1.7.0 // indirect
-	github.com/sirupsen/logrus v1.4.2
+	github.com/sirupsen/logrus v1.6.0
 	github.com/status-im/keycard-go v0.0.0-20190424133014-d95853db0f48
 	github.com/stretchr/testify v1.4.0
 	github.com/syndtr/goleveldb v1.0.1-0.20200815110645-5c35d600f0ca
